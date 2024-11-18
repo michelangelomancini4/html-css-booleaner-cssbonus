@@ -1,0 +1,83 @@
+body main,footer {
+    margin-left: 150px;
+    font-size: 16px;
+}
+/* logo con pattern */
+header {
+    margin: 0;
+    background-color: rgb(65, 196, 228);
+    background-image: url(../img/img/pattern.png)  
+    
+    
+}
+#booleaner {
+    margin-left: 150px;
+    width: 200px;
+    height: 100px;
+}
+/* titolo e didascalie */
+h1 {
+    font-size: 55px;
+}
+#testo-grigio{
+    color: gray;
+    font-size: 20px;
+}
+#testo-blu{
+    font-size: 20px;
+    color: rgb(22, 193, 202);
+}
+#data-grigia{
+    color: gray;
+    font-size: 15px;
+}
+.sottotesto{
+    font-size: 10px;
+}
+/* tabella */
+
+table{
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+
+   }
+thead{
+    background-color: rgb(20, 183, 211);
+     color: white;
+     
+    
+}
+th{
+    height: 40px;
+    text-align: left;
+    
+}
+td {
+    height: 70px;
+    
+}
+.righe-celesti{
+    background-color: aqua;
+}
+#finale {
+    color: gray;
+    font-size: 20px;
+}
+/* foto finali */
+
+ .contain{
+    position: relative;
+    
+ }
+ .scrittabianca {
+    position: absolute;
+    top: 3px;
+    left: 5px;
+    color: white;
+    font-size: 30px;
+ }
+
+ 
+
+/*  */
